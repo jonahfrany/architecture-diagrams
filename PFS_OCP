@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T07:15:52.616Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="JNukvpXMgZh5FDK1duqG" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T07:17:48.962Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="1a21CQZDHd4UyPY6WZRm" version="13.6.5" type="github">
   <diagram id="wwNsm4cnMJx_S81-vv44" name="Page-1">
     <mxGraphModel dx="1675" dy="1037" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
           <mxGeometry x="197" y="120" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2U5P0fQicb4QYWKk6oSt-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
-          <mxGeometry x="372" y="14" width="50" height="46" as="geometry" />
+          <mxGeometry x="386" y="27" width="50" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2U5P0fQicb4QYWKk6oSt-15" value="OpenShift Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="40" width="110" height="20" as="geometry" />
