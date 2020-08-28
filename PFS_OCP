@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T02:14:17.183Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="UeGYbBc8ZdUx7iDuFAiX" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T02:17:41.442Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="94Ftb4zgqIvkjpWO3ygb" version="13.6.5" type="github">
   <diagram id="wwNsm4cnMJx_S81-vv44" name="Page-1">
     <mxGraphModel dx="1350" dy="778" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
           <mxGeometry x="624" y="203.84" width="180" height="24" as="geometry" />
         </mxCell>
         <mxCell id="OofN7Fx-G_aCp4d9xx5P-29" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod" vertex="1" parent="1">
-          <mxGeometry x="564" y="264" width="50" height="48" as="geometry" />
+          <mxGeometry x="574" y="137.34" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OofN7Fx-G_aCp4d9xx5P-30" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2U5P0fQicb4QYWKk6oSt-34" target="OofN7Fx-G_aCp4d9xx5P-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -180,10 +180,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OofN7Fx-G_aCp4d9xx5P-31" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redis;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="566" y="309" width="48" height="45.5" as="geometry" />
+          <mxGeometry x="576" y="182.34" width="48" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="OofN7Fx-G_aCp4d9xx5P-32" value="Redis Pod" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="322.5" width="72" height="24" as="geometry" />
+          <mxGeometry x="570" y="240" width="72" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
